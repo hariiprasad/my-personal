@@ -5,30 +5,22 @@
       "identifier": "1",
       "name": "Balayya",
       "publisher": "stickers Raja",
-      "tray_image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/trayicons/tray_bala.png",
+      "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/emojis/icon.png",
       "publisher_email":"stickersraja@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/images/bala1.png",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/emojis/emoji.png",
           "emojis": ["🙂"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/images/bala2.png",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/emojis/emoji2.png",
           "emojis": ["🙂"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/images/bala3.png",
-          "emojis": ["🙂"]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/images/bala4.png",
-          "emojis": ["🙂"]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/handplaylabs/personal/master/images/bala5.png",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/emojis/emoji3.png",
           "emojis": ["🙂"]
         }
       ]
