@@ -7,15 +7,19 @@
    ],
   
   "collection": [
-   
-  {
-      "url": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/Tempt/Ullasamga%20Utsahamga/thum.jpg",
+   {
+      "url": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/Tempt/raja%20the%20great/raja%20the%20great.jpg",
       "size": "2 Templates",
-      "name": "Ullasamga Utsahamga"
+      "name": "Raja The Great"
   },{
       "url": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/Tempt/Sye/Sey_telugu_film.jpg",
       "size": "2 Templates",
       "name": "Sye"
-  }
-  ]
-  }
+  },
+  {
+      "url": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/Tempt/Ullasamga%20Utsahamga/thum.jpg",
+      "size": "2 Templates",
+      "name": "Ullasamga Utsahamga"
+   }
+ ]
+}
