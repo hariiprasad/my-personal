@@ -2483,7 +2483,7 @@
   } ],
   "ios_app_store_link" : "",
   "sticker_packs" : [ {
-    "dialog" : 1,
+    "dialog" : "hari",
     "identifier" : "covid19",
     "license_agreement_website" : "",
     "name" : "Covid 19",
