@@ -8,7 +8,7 @@
   },
   {
     "id": 2,
-    "title": "A. Use Movie Name as keyword in search. Dialog is optional.",
+    "title": "A. Use Movie Name as keyword in search. Use this format Movie Name(mandatory) Hero or Herione or any actor name(optional) dialog(optional) \n if movie name is not found with spaces for eg:dubai seenu search as dubaiseenu.\N IF you still didnt found templates see in collection All are categories are sorted by Alphabetical order",
     "type": "1",
     "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/step1.png",
     "image": ""
