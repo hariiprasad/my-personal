@@ -47,5 +47,47 @@
     "type": "1",
     "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/step1.png",
     "image": ""
+  },
+  {
+    "id": 8,
+    "title": "6Q. Where can i Find Meme Templates pages? Please find the links below",
+    "type": "1",
+    "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/step1.png",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "title": "",
+    "type": "2",
+    "url": "https://www.instagram.com/templates_ki_adda",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/tka.jpg"
+  },
+  {
+    "id": 10,
+    "title": "",
+    "type": "2",
+    "url": "https://www.facebook.com/Memetemplates",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/mtfb.jpg"
+  },
+  {
+    "id": 11,
+    "title": "",
+    "type": "2",
+    "url": "https://www.instagram.com/memetemplates_mt/",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/mtfb.jpg"
+  },
+  {
+    "id": 12,
+    "title": "",
+    "type": "2",
+    "url": "https://www.instagram.com/templates_bhayya/",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/tbfb.jpg"
+  },
+  {
+    "id": 13,
+    "title": "",
+    "type": "2",
+    "url": "https://www.facebook.com/TemplatesBhayya",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/tbinsta.jpg"
   }
 ]
