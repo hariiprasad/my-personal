@@ -3,564 +3,706 @@
   "ios_app_store_link": "https://itunes.apple.com//us/app/id1515014579",
   "sticker_packs": [
     {
-	"dialog":"ipl Funny",
+      "dialog": "Movie Mix 11",
+      "identifier": "moviemix11",
+      "license_agreement_website": " ",
+      "name": "Movie Mix 11",
+      "privacy_policy_website": " ",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://apps.stickersraja.com/stiks/moviemix11t/moviemix11.png",
+      "publisher_email": "stickersraja@gmail.com",
+      "publisher_website": " ",
+      "stickers": [
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/1.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/2.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/3.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/4.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/5.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/6.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/7.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/8.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/9.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/10.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/11.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/12.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/13.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/14.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/15.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/16.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/17.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/18.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/19.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/20.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11/21.webp",
+          "emojis": [
+            ":-D"
+          ]
+        }
+      ]
+    },
+    {
+      "dialog": "IPL funny",
       "identifier": "iplfunny",
-      "name": "IPL Funny ",
-      "publisher": "stickers Raja",
-      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F31.png?alt=media&token=cf7e896f-c430-4cf0-bc50-8e5fe4384b64",
+      "license_agreement_website": " ",
+      "name": "IPL funny",
+      "privacy_policy_website": " ",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/31.png",
       "publisher_email": "stickersraja@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
+      "publisher_website": " ",
       "stickers": [
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F1.webp?alt=media&token=797548c5-29b9-49aa-a6d0-3bf549c75706",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/1.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F2.webp?alt=media&token=1f56972f-ea32-4d6c-a6b3-7ff35c9e25a1",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/2.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F3.webp?alt=media&token=000b4b96-5d4c-4af9-abe3-b80ba40d032d",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/3.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F4.webp?alt=media&token=04a84d8c-8f7d-4fcd-a7af-1f0ac2fdfbc5",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/4.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F5.webp?alt=media&token=0fdd8b5d-2992-4b0c-b429-c733ca447622",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/5.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F6.webp?alt=media&token=557f9c52-d05c-4287-864b-b6f60ae108ae",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/6.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F7.webp?alt=media&token=0d68d894-c865-46f8-bfab-bc0f1d8dda2d",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/7.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F8.webp?alt=media&token=fa5b3ac3-810a-4b5c-9c6b-40b4b17b6135",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/8.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F9.webp?alt=media&token=6dcdb44a-8fa5-4252-9ad9-96c23651ae5b",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/9.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F10.webp?alt=media&token=e7067a4f-ec24-4d06-8e2e-bd0abab44177",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/10.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F11.webp?alt=media&token=43858e74-43dc-4ae7-b8b6-2365f8bfc24d",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/11.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F12.webp?alt=media&token=a41cb330-6ebb-4195-9f1e-de755ce1a294",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/12.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F13.webp?alt=media&token=17fdddba-841e-4f38-9c3f-821312d8f98d",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/13.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F14.webp?alt=media&token=a0166a54-9f19-442c-b039-9b0bf6f7ce54",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/14.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F15.webp?alt=media&token=0a6ed97f-587d-48b6-9414-4e5937306616",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/15.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F16.webp?alt=media&token=6dd9cf2c-aa6e-4739-883d-c3f3748f6fd7",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/16.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F17.webp?alt=media&token=881ba913-3db4-4f7e-a252-057c8b069121",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/17.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F18.webp?alt=media&token=3ac98615-3378-410b-9877-c7949ef578da",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/18.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F19.webp?alt=media&token=f9ba0f28-5158-433d-b6fa-2a414933dfe2",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/19.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F20.webp?alt=media&token=8f4b4863-f708-4729-8ecf-aa02221e3504",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/20.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F21.webp?alt=media&token=86286fdd-3df1-42b9-87ca-d975bac5ff17",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/21.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F22.webp?alt=media&token=a9b07547-16fd-47bd-bc7f-065158e71c63",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/22.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F23.webp?alt=media&token=2ffd246e-571b-4c9c-b71e-4ad1e8738970",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/23.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F24.webp?alt=media&token=3dcde984-1664-4fef-aa92-48d84df3f34c",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/24.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F25.webp?alt=media&token=51f6abb9-8500-47f1-9ae8-2f6800fe7cfd",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/25.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F26.webp?alt=media&token=e7f641d0-b2e4-4f6a-ab4a-9c3306084b58",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/26.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F27.webp?alt=media&token=b038356c-a8ed-4d90-a531-e49e8fabbc6f",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/27.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F28.webp?alt=media&token=599c0124-64be-48ab-b125-613cdae82318",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/28.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F29.webp?alt=media&token=df5c3006-7bda-48e8-bd64-d4dd09a88c23",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/29.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2F30.webp?alt=media&token=e97340cd-354a-42bb-b78a-2f04bea71a66",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunny/30.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         }
       ]
-    },{
-	"dialog":"venumadhav venumadav",
-      "identifier": "venumadhav",
-      "name": "venumadhav neninthe",
-      "publisher": "stickers Raja",
-      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Fvenu.png?alt=media&token=7c94a53d-8f58-42e7-b41b-3781b3a58738",
+    },
+    {
+      "dialog": "Venu madhav neninthe",
+      "identifier": "venunenin",
+      "license_agreement_website": " ",
+      "name": "Venu madhav neninthe",
+      "privacy_policy_website": " ",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/venu.png",
       "publisher_email": "stickersraja@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
+      "publisher_website": " ",
       "stickers": [
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F1.webp?alt=media&token=05e2ebd0-7787-439f-bcba-9da49718fbb3",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/1.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F2.webp?alt=media&token=5a8ebb15-8436-4c23-8b1c-54512bdb8296",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/2.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F3.webp?alt=media&token=3848cb96-d317-4441-92f1-fa6cbd341bfd",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/3.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F4.webp?alt=media&token=c0d419f1-c6ab-44ba-a1ef-310920e7f539",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/4.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F5.webp?alt=media&token=c98c2d60-7f07-45a1-9a87-624c781a9c53",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/5.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F6.webp?alt=media&token=2b651fd4-f82c-419b-b555-60ee238055a1",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/6.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F7.webp?alt=media&token=e0714cf8-973f-4aac-8d7b-984d9374a838",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/7.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F8.webp?alt=media&token=fc8a9f74-156b-482e-8cc4-4044b54e941c",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/8.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F9.webp?alt=media&token=a497da34-7d02-4966-b42b-c460dc605d46",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/9.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F10.webp?alt=media&token=da2801f1-49c6-4347-b34d-d6e6611c4b36",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/10.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F11.webp?alt=media&token=a9e5aaaa-d79c-446d-be40-07a06947c1b3",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/11.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F12.webp?alt=media&token=acf5e7cd-2654-439a-a61a-18472bb31372",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/12.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F13.webp?alt=media&token=fcbc4b4b-b9d9-47b1-b50f-71d811435399",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/13.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F14.webp?alt=media&token=2c1515ed-72ec-4e2a-a466-32ec052d49d7",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/14.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F15.webp?alt=media&token=2e26fce5-a0b8-46c4-9258-44c91344a3af",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/15.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F16.webp?alt=media&token=15dfe61f-cbb9-4aaf-9fca-f8c2b9bd0e67",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/16.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F17.webp?alt=media&token=2cabe48f-1fed-4c61-b719-d1bcbaa8bec7",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/17.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F18.webp?alt=media&token=bc96cf80-26be-4f26-b7be-b85658d109c4",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/18.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F19.webp?alt=media&token=3a085d4e-40eb-4880-a5cc-1fb59140cb5a",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/19.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F20.webp?alt=media&token=073bec4f-0ad4-45cc-be8e-e49f90346504",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/20.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F21.webp?alt=media&token=8151769b-beb4-4bad-b508-d5df1df01caf",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/21.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F22.webp?alt=media&token=b8a60f8b-2f76-459b-8227-7347d29be067",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/22.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F23.webp?alt=media&token=36829c3b-566a-41f0-bff6-897f79d78788",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/23.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F24.webp?alt=media&token=ccb91d73-55c3-476b-a7ba-6242cecdd8c2",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/24.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F25.webp?alt=media&token=3e9e150a-ec4f-4193-b448-ca56576ae81b",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/25.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F26.webp?alt=media&token=9aca3789-7820-4bfa-bd3f-9f10bdd3ca4e",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/26.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F27.webp?alt=media&token=59ca50ad-b70d-48db-89d1-19ae118adff1",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/27.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F28.webp?alt=media&token=63bdc53e-df6e-466a-bf83-2700170df2aa",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/28.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F29.webp?alt=media&token=8ca014c2-eb05-451e-8ed8-995ff730690d",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/29.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2F30.webp?alt=media&token=b65a84d6-dc72-4b22-95e9-1d070149bba6",
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthe/30.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         }
       ]
-    },{
-  "dialog": "kajal",
+    },
+    {
+      "dialog": "Kajal",
       "identifier": "kajal",
-      "name": "kajal ",
-      "publisher": "stickers Raja",
-      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2Fkajal.png?alt=media&token=2dbcd83a-1849-48ef-9e72-4a7d3282b2d8",
+      "license_agreement_website": " ",
+      "name": "Kajal",
+      "privacy_policy_website": " ",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/kajal.png",
       "publisher_email": "stickersraja@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
+      "publisher_website": " ",
       "stickers": [
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F1.webp?alt=media&token=b25c4d06-ab03-4860-8cc6-ec55af1f7c9f",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/1.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F2.webp?alt=media&token=1b3457e4-8ac6-4481-9e24-fff382f1e681",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/2.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F3.webp?alt=media&token=bc3b8cd8-5fb7-4b24-8871-99eb8141a8ab",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/3.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F4.webp?alt=media&token=1f959f6e-3928-4b42-b056-c8ca462ad6b3",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/4.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F5.webp?alt=media&token=e753dcec-0c76-4341-a4b8-8636875dd98f",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/5.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F6.webp?alt=media&token=29bb4ad4-3c29-4fde-8ca4-e01f02622ce8",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/6.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F7.webp?alt=media&token=a663110f-d422-4936-b53b-d922f0cbe5f2",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/7.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F8.webp?alt=media&token=a967de12-dbf1-49a0-90e9-04410987bda6",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/8.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F9.webp?alt=media&token=3b36bae5-c109-406f-a34a-9c70c1f2bf71",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/9.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F10.webp?alt=media&token=2ff05b73-887f-4a18-ab01-7a740e259925",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/10.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F11.webp?alt=media&token=8aa7b885-6670-45dc-8253-95dc29cd3a7c",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/11.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F12.webp?alt=media&token=de5f106b-39fb-4806-ae87-0e345cf208f4",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/12.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F13.webp?alt=media&token=14f67088-7b54-46c9-92b0-30accca01d07",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/13.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F14.webp?alt=media&token=d60d40ea-9b16-4e1c-b7fd-cdd731bd09bc",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/14.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F15.webp?alt=media&token=ee223a70-211c-4687-83a8-b1026330216a",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/15.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F16.webp?alt=media&token=af6c51c6-bda5-4e8c-aee9-269393157c94",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/16.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F17.webp?alt=media&token=6f4eac8e-e824-48ed-9ec0-8b994d7021b5",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/17.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F18.webp?alt=media&token=7f4b93d4-b73e-4223-a556-d561a99952e9",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/18.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F19.webp?alt=media&token=b3d67485-9d71-4c2d-801f-8a587c67a555",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/19.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F20.webp?alt=media&token=b959fc48-2a93-495e-9467-9b265e0f5961",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/20.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F21.webp?alt=media&token=efa93b4d-45d8-42ff-8809-206fa58a8451",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/21.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F22.webp?alt=media&token=3805643d-5f3a-452d-acbd-c8aee5b46c7c",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/22.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F23.webp?alt=media&token=a0860033-c438-490b-b875-e9de87073963",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/23.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F24.webp?alt=media&token=05891f82-a98b-43f2-abf4-8319805c2e66",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/24.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F25.webp?alt=media&token=e119fa1c-7bf9-4735-8f6c-21911052662f",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/25.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F26.webp?alt=media&token=ae2c5edf-7541-43fe-98e7-a42a6f13e79d",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/26.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fkajal%2F27.webp?alt=media&token=144e0660-d3c7-4c41-b12a-5f33f0db3893",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/kajalstiks/27.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "buddodu",
       "name": "Buddodu",
       "publisher": "stickers Raja",
@@ -721,7 +863,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "prudhvirajtelugu",
       "name": "Prudhvi Raj 30 years",
       "publisher": "stickers Raja",
@@ -900,7 +1043,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "Ganesh2020",
       "name": "Vinayaka Chavithi",
       "publisher": "stickers Raja",
@@ -963,7 +1107,8 @@
           "emojis": [
             ":)"
           ]
-        },{
+        },
+        {
           "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fganesh%2Fganesh1.webp?alt=media&token=13e1ded0-2776-48d2-8d68-6bfccb50aefd",
           "emojis": [
             ":)"
@@ -1066,7 +1211,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "aparichithudu",
       "name": "Aparichithudu",
       "publisher": "stickers Raja",
@@ -1221,7 +1367,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "lakshmi",
       "name": "Lakshmi",
       "publisher": "stickers Raja",
@@ -1412,7 +1559,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "munnababu",
       "name": "Munna babu",
       "publisher": "stickers Raja",
@@ -28841,325 +28989,466 @@
   ],
   "sticker_packs1": [
     {
-	"dialog":"ipl Funny",
-      "identifier": "iplfunnytelugu",
-      "name": "IPL ఫన్నీ ",
-      "publisher": "stickers Raja",
-      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu31.png?alt=media&token=7c47d5bd-0041-4700-a9a9-2055389709c7",
+      "dialog": "Movie Mix 11",
+      "identifier": "moviemix11telugu",
+      "license_agreement_website": " ",
+      "name": "Movie Mix 11",
+      "privacy_policy_website": " ",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://apps.stickersraja.com/stiks/moviemix11t/moviemix11.png",
       "publisher_email": "stickersraja@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
+      "publisher_website": " ",
       "stickers": [
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu1.webp?alt=media&token=ed19498b-8f6b-4583-b8d2-956f847e9bc3",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu1.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu2.webp?alt=media&token=3d005b2a-0375-4cee-a1dc-9541769cea89",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu2.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu3.webp?alt=media&token=2172b574-8e1f-4b1e-9350-2827a1c0c62b",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu3.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu4.webp?alt=media&token=a776300c-ef51-4c74-825c-79d22a221734",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu4.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu5.webp?alt=media&token=c506a0e9-fe2d-4b97-a531-81d98540192c",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu5.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu6.webp?alt=media&token=4c2c6b49-0324-4c77-912f-66263d097c5c",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu6.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu7.webp?alt=media&token=5aca08f7-06e7-4649-8937-1ec07b25b461",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu7.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu8.webp?alt=media&token=e2782962-4edf-4d74-bf84-8ce63b7e37e5",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu8.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu9.webp?alt=media&token=187172a0-a8dc-46ae-8ac2-57f522893ee0",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu9.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu10.webp?alt=media&token=93831eb7-ecb4-46f3-aa2a-4c486da56028",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu10.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu11.webp?alt=media&token=5f653099-5d11-45a3-839e-fe4580a8f5d3",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu11.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu12.webp?alt=media&token=6e9d697a-e943-4782-bad3-5d8dafd53df7",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu12.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu13.webp?alt=media&token=990cbb2a-2dce-40a0-a5f3-1130d88c4544",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu13.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu14.webp?alt=media&token=8314c61e-4b11-42d1-af27-59d9839bb255",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu14.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu15.webp?alt=media&token=df3c93da-b8fc-4a36-9b51-00010be4e97d",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu15.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu16.webp?alt=media&token=62459c6c-a45a-4209-b7f9-d2dd28f9b047",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu16.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu17.webp?alt=media&token=3ab9d037-173c-4d33-ab50-3b583aeabe60",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu17.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu18.webp?alt=media&token=464c8bf0-f052-44bc-a017-9716e9ec4bb7",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu18.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu19.webp?alt=media&token=8863398b-8a5e-4966-a721-314f250d6554",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu19.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu20.webp?alt=media&token=b74d30ba-f35b-4cd8-9fd6-8c80679bc4a5",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu20.webp",
           "emojis": [
-            ":)"
+            ":-D"
           ]
         },
         {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu21.webp?alt=media&token=e2d0990c-771e-4918-ae9d-af6bff2b639a",
+          "image_file": "https://apps.stickersraja.com/stiks/moviemix11t/telugu21.webp",
           "emojis": [
-            ":)"
-          ]
-        },
-        {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu22.webp?alt=media&token=a7593d1f-1f9f-4cf9-9220-a9b2bf71455f",
-          "emojis": [
-            ":)"
-          ]
-        },
-        {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu23.webp?alt=media&token=a0d9f4f8-0eeb-4ef0-8244-eef0a425b5fd",
-          "emojis": [
-            ":)"
-          ]
-        },
-        {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu24.webp?alt=media&token=a608293f-75bc-4454-a3ed-76e1caca19ca",
-          "emojis": [
-            ":)"
-          ]
-        },
-        {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu25.webp?alt=media&token=a987c7ce-be02-473b-a8ae-9319d1456a93",
-          "emojis": [
-            ":)"
-          ]
-        },
-        {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu26.webp?alt=media&token=1e9e6fbf-087e-4371-9d7e-6eef0e6a9acd",
-          "emojis": [
-            ":)"
-          ]
-        },
-        {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu27.webp?alt=media&token=4a85c3f8-cb71-40c8-926c-6d77aa18288d",
-          "emojis": [
-            ":)"
-          ]
-        },
-        {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu28.webp?alt=media&token=3bb72437-7675-4273-b5e8-43bb4301a9c4",
-          "emojis": [
-            ":)"
-          ]
-        },
-        {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu29.webp?alt=media&token=b0b993d1-0852-404a-8b79-1914d96319a5",
-          "emojis": [
-            ":)"
-          ]
-        },
-        {
-          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu30.webp?alt=media&token=419d06fe-83ee-4916-ba3b-b4a0c5f8e201",
-          "emojis": [
-            ":)"
+            ":-D"
           ]
         }
       ]
-    },{
-    "dialog": "venumadhav venu madhav వేణు మాధవ్ నేనింతే",
-    "identifier": "venunenintel",
-    "license_agreement_website": " ",
-    "name": "వేణు మాధవ్ నేనింతే",
-    "privacy_policy_website": " ",
-    "publisher": "Stickers Raja",
-    "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Fvenu.png?alt=media&token=7c94a53d-8f58-42e7-b41b-3781b3a58738",
-    "publisher_email": "stickersraja@gmail.com",
-    "publisher_website": " ",
-    "stickers": [
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu1.webp?alt=media&token=d73ea9cc-b386-4078-b9ca-b4c6796207c7",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu2.webp?alt=media&token=642b7447-c273-4468-bede-fcef36008ab5",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu3.webp?alt=media&token=753a7198-ee59-45c7-a738-7d670c0c6338",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu4.webp?alt=media&token=82a846b4-e90f-4ffd-95e7-8500f4d741cf",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu5.webp?alt=media&token=c2d601ee-a2fd-438b-9fb0-fc8e7833d51e",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu6.webp?alt=media&token=a49f9ccc-b576-421c-b4a2-bf809b3693c1",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu7.webp?alt=media&token=fda4bd9c-cede-4513-b822-1f442ee27c34",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu8.webp?alt=media&token=8d22d36b-2ae6-4764-9196-30502f6e75d5",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu9.webp?alt=media&token=5b4a577c-cb8a-4dcb-bef8-7a66ee264ef0",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu10.webp?alt=media&token=d7101c79-8593-4287-a295-8112710e9563",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu11.webp?alt=media&token=4c209068-3f91-417e-af49-b75a21b715b8",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu12.webp?alt=media&token=546a23cf-a2d9-4f66-8023-6a9633c4edbf",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu13.webp?alt=media&token=093d1874-afca-44ad-9843-5f62450a1619",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu14.webp?alt=media&token=5e3e3b99-2117-477e-9825-b2e33f8fa024",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu15.webp?alt=media&token=78cc0700-4520-4c93-8a81-1939757db31f",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu16.webp?alt=media&token=7fe98081-8a83-4c26-8ddc-617f4b07ebb5",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu17.webp?alt=media&token=768a569e-5d6e-40ae-b448-14fa415f754f",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu18.webp?alt=media&token=61a69bbb-bb9c-4216-b19b-19ce975cfa27",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fvenuneninthe%2Ftelugu19.webp?alt=media&token=ce16015f-83e1-43e5-a8c1-fe6ba780da64",
-        "emojis": [
-          ":-D"
-        ]
-      }
-    ]
-  },{
-  "dialog": "kajal కాజల్ ",
+    },
+    {
+      "dialog": "IPL ఫన్నీ",
+      "identifier": "iplfunnytelugu",
+      "license_agreement_website": " ",
+      "name": "IPL ఫన్నీ",
+      "privacy_policy_website": " ",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu31.png",
+      "publisher_email": "stickersraja@gmail.com",
+      "publisher_website": " ",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu1.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu2.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu3.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu4.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu5.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu6.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu7.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu8.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu9.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu10.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu11.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu12.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu13.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu14.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu15.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu16.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu17.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu18.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu19.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu20.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu21.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu22.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu23.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu24.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu25.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu26.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu27.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu28.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu29.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/iplfunnytelugu/telugu30.webp",
+          "emojis": [
+            ":-D"
+          ]
+        }
+      ]
+    },
+    {
+      "dialog": "వేణు మాధవ్ నేనింత venu madhav",
+      "identifier": "venunenintelugu",
+      "license_agreement_website": " ",
+      "name": "వేణు మాధవ్ నేనింత ",
+      "privacy_policy_website": " ",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/venu.png",
+      "publisher_email": "stickersraja@gmail.com",
+      "publisher_website": " ",
+      "stickers": [
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu1.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu2.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu3.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu4.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu5.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu6.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu7.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu8.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu9.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu10.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu11.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu12.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu13.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu14.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu15.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu16.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu17.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu18.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://apps.stickersraja.com/stiks/venuneninthetelugu/telugu19.webp",
+          "emojis": [
+            ":-D"
+          ]
+        }
+      ]
+    },
+    {
+      "dialog": "kajal కాజల్ ",
       "identifier": "kajaltelugu",
       "name": "కాజల్ ",
       "publisher": "stickers Raja",
@@ -29332,7 +29621,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "buddodutelugu",
       "name": "బుడ్డోడు",
       "publisher": "stickers Raja",
@@ -29493,7 +29783,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "prudhvirajtelugu",
       "name": "పృథ్వి రాజ్ ",
       "publisher": "stickers Raja",
@@ -29672,7 +29963,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "Ganesh2020telugu",
       "name": "వినాయక చవితి",
       "publisher": "stickers Raja",
@@ -29833,7 +30125,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "aparichithudutelugu",
       "name": "అపరిచితుడు",
       "publisher": "stickers Raja",
@@ -29982,7 +30275,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "lakshmitelugu",
       "name": "లక్ష్మి ",
       "publisher": "stickers Raja",
@@ -30173,7 +30467,8 @@
           ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "colorphototelugu",
       "name": "కలర్ ఫోటో",
       "publisher": "stickers Raja",
@@ -40105,330 +40400,332 @@
   ],
   "hindistickers": [
     {
-    "dialog": "sushant",
-    "identifier": "sushant",
-    "license_agreement_website": " ",
-    "name": "Sushant singh",
-    "privacy_policy_website": " ",
-    "publisher": "Stickers Raja",
-    "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2Fsushant.png?alt=media&token=cb596ea6-55f2-4402-8370-31759d7c4536",
-    "publisher_email": "stickersraja@gmail.com",
-    "publisher_website": " ",
-    "stickers": [
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F1.webp?alt=media&token=c16e61e8-5138-4396-ba78-aed1c085cc4e",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F2.webp?alt=media&token=e202fb78-a500-48ff-8633-ac9fe71c8328",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F3.webp?alt=media&token=77e54813-8abd-453a-8e04-87fdd30aba5d",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F4.webp?alt=media&token=98caa08d-0269-44f0-8679-51ccb2d87809",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F5.webp?alt=media&token=9665f7e1-58af-445a-a821-7981eb84a08e",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F6.webp?alt=media&token=fa7cdf5d-1ef5-409a-8886-1af5e8ae5d8f",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F7.webp?alt=media&token=5569a76e-acd2-46d6-9e1e-7a22057dfba6",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F8.webp?alt=media&token=fe3f5166-93d0-44ad-b2e1-07c554a7eb0f",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F9.webp?alt=media&token=5bd32599-cc42-4f7c-9a9b-2e61176c11bc",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F10.webp?alt=media&token=dcccf4fb-c9dd-4ee7-85c9-06def049ec42",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F11.webp?alt=media&token=2e5a8b9d-c31c-48ee-b59d-29e38936ee64",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F12.webp?alt=media&token=19f1e53c-b0e7-4a9c-a570-82383b38de3d",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F13.webp?alt=media&token=1fc31411-1c7b-496a-b29a-8be41995ca9d",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F14.webp?alt=media&token=817a98f2-e81b-458f-b650-c46b34b19d6b",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F15.webp?alt=media&token=844e7dc7-aded-402a-a86b-2c4caf7fae29",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F16.webp?alt=media&token=ca22ffbb-c178-4d17-8829-253c4eb83d60",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F17.webp?alt=media&token=0cae1424-47ec-4ece-bb6b-3ae1831cc0c7",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F18.webp?alt=media&token=177ebb6f-3305-4b1a-ba74-51ada24f23d4",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F19.webp?alt=media&token=0fb72f44-6d6d-469d-8e40-85b1b4eb8574",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F20.webp?alt=media&token=2bc404d9-524b-40ae-b556-79699a382818",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F21.webp?alt=media&token=96a1f4ea-da0b-4939-a40b-27fecc7ef6a5",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F22.webp?alt=media&token=f40410c4-ccee-4a7c-b356-a6732cf5b634",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F23.webp?alt=media&token=44810998-a7f1-40b8-b687-31879d792f8f",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F24.webp?alt=media&token=8d6b8b0f-00e5-4025-a850-4737083e7e85",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F25.webp?alt=media&token=f8c0a0cb-5588-4b58-bdd8-203cd812f7b8",
-        "emojis": [
-          ":-D"
-        ]
-      }
-    ]
-  },{
-    "dialog": "carry minati ajay nager",
-    "identifier": "carry",
-    "license_agreement_website": " ",
-    "name": "Carry Minati",
-    "privacy_policy_website": " ",
-    "publisher": "Stickers Raja",
-    "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2Fcarryminati.png?alt=media&token=18c406f2-47a7-4b27-8476-ecda57602cfb",
-    "publisher_email": "stickersraja@gmail.com",
-    "publisher_website": " ",
-    "stickers": [
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F1.webp?alt=media&token=b2feab80-e758-4f07-8988-e35f368ebb12",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F2.webp?alt=media&token=27284a8a-fb3e-4af7-beb4-8a6cffb18838",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F3.webp?alt=media&token=5d351acb-a370-484e-a805-13963939c626",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F4.webp?alt=media&token=dbb3bbbb-c8c7-4934-a975-aa519abff2a8",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F5.webp?alt=media&token=e3aa7ff6-5e89-4f08-9436-c8badf15b004",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F6.webp?alt=media&token=20b2bf21-0500-4b99-a20c-1d6978f54c19",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F7.webp?alt=media&token=c2eeb878-0498-4a1e-83ed-f1efdf995ad7",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F8.webp?alt=media&token=03e03dad-5003-47d6-8afd-b54866157b43",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F9.webp?alt=media&token=362dd1ca-f802-45f7-ac2d-f4428a67a93b",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F10.webp?alt=media&token=a1caae3a-fa21-4aab-adf0-50fad32acf79",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F11.webp?alt=media&token=92ff9873-bf9e-48aa-8076-3dfff079f2b7",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F12.webp?alt=media&token=066ab3c8-e5e2-44b4-8ca3-a8ab3bbd8ec6",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F13.webp?alt=media&token=10a5cc97-77ad-4fde-b486-34bcd40dc80f",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F14.webp?alt=media&token=17778693-1129-4f24-b19b-e8225de7806e",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F15.webp?alt=media&token=142a541c-8012-46a3-bd89-55f3a6303f9d",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F16.webp?alt=media&token=ec6098a2-2e99-44fc-9df4-04541d03ce9f",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F17.webp?alt=media&token=441f1758-825b-480f-80c8-cedbdc041205",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F18.webp?alt=media&token=327eab1e-be2a-4e93-b9ec-43966dc134ff",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F19.webp?alt=media&token=50e0b042-9e55-4249-ba72-691eced5492e",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F20.webp?alt=media&token=ea53c2b5-8a3f-4597-b38f-4e9d6afa8450",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F21.webp?alt=media&token=a0059302-5718-481a-80dc-e8dcbbd7fb96",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F22.webp?alt=media&token=f67c51ee-f125-40ed-8a0e-21044b982f28",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F23.webp?alt=media&token=48778c5e-8679-4e43-81c0-50d28bf22254",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F24.webp?alt=media&token=c1e049ab-cc36-4d5b-ad45-86fd3c476e3f",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcarryminati%2F25.webp?alt=media&token=5aba6f1f-3ced-43b2-bbf0-8e31e7ebec9c",
-        "emojis": [
-          ":-D"
-        ]
-      }
-    ]
-  },{
+      "dialog": "sushant",
+      "identifier": "sushant",
+      "license_agreement_website": " ",
+      "name": "Sushant singh",
+      "privacy_policy_website": " ",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2Fsushant.png?alt=media&token=cb596ea6-55f2-4402-8370-31759d7c4536",
+      "publisher_email": "stickersraja@gmail.com",
+      "publisher_website": " ",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F1.webp?alt=media&token=c16e61e8-5138-4396-ba78-aed1c085cc4e",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F2.webp?alt=media&token=e202fb78-a500-48ff-8633-ac9fe71c8328",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F3.webp?alt=media&token=77e54813-8abd-453a-8e04-87fdd30aba5d",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F4.webp?alt=media&token=98caa08d-0269-44f0-8679-51ccb2d87809",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F5.webp?alt=media&token=9665f7e1-58af-445a-a821-7981eb84a08e",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F6.webp?alt=media&token=fa7cdf5d-1ef5-409a-8886-1af5e8ae5d8f",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F7.webp?alt=media&token=5569a76e-acd2-46d6-9e1e-7a22057dfba6",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F8.webp?alt=media&token=fe3f5166-93d0-44ad-b2e1-07c554a7eb0f",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F9.webp?alt=media&token=5bd32599-cc42-4f7c-9a9b-2e61176c11bc",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F10.webp?alt=media&token=dcccf4fb-c9dd-4ee7-85c9-06def049ec42",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F11.webp?alt=media&token=2e5a8b9d-c31c-48ee-b59d-29e38936ee64",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F12.webp?alt=media&token=19f1e53c-b0e7-4a9c-a570-82383b38de3d",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F13.webp?alt=media&token=1fc31411-1c7b-496a-b29a-8be41995ca9d",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F14.webp?alt=media&token=817a98f2-e81b-458f-b650-c46b34b19d6b",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F15.webp?alt=media&token=844e7dc7-aded-402a-a86b-2c4caf7fae29",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F16.webp?alt=media&token=ca22ffbb-c178-4d17-8829-253c4eb83d60",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F17.webp?alt=media&token=0cae1424-47ec-4ece-bb6b-3ae1831cc0c7",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F18.webp?alt=media&token=177ebb6f-3305-4b1a-ba74-51ada24f23d4",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F19.webp?alt=media&token=0fb72f44-6d6d-469d-8e40-85b1b4eb8574",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F20.webp?alt=media&token=2bc404d9-524b-40ae-b556-79699a382818",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F21.webp?alt=media&token=96a1f4ea-da0b-4939-a40b-27fecc7ef6a5",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F22.webp?alt=media&token=f40410c4-ccee-4a7c-b356-a6732cf5b634",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F23.webp?alt=media&token=44810998-a7f1-40b8-b687-31879d792f8f",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F24.webp?alt=media&token=8d6b8b0f-00e5-4025-a850-4737083e7e85",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsushant%2F25.webp?alt=media&token=f8c0a0cb-5588-4b58-bdd8-203cd812f7b8",
+          "emojis": [
+            ":-D"
+          ]
+        }
+      ]
+    },
+    {
+      "dialog": "Carry minati",
+      "identifier": "carry",
+      "license_agreement_website": " ",
+      "name": "Carry minati",
+      "privacy_policy_website": " ",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/carryminati.png",
+      "publisher_email": "stickersraja@gmail.com",
+      "publisher_website": " ",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/1.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/2.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/3.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/4.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/5.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/6.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/7.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/8.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/9.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/10.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/11.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/12.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/13.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/14.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/15.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/16.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/17.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/18.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/19.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/20.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/21.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/22.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/23.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/24.webp",
+          "emojis": [
+            ":-D"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/kajalstiks/carryminatistiks/carryminati/25.webp",
+          "emojis": [
+            ":-D"
+          ]
+        }
+      ]
+    },
+    {
       "identifier": "3idiots",
       "name": "3 idiots",
       "publisher": "Stickers Raja",
